@@ -1,0 +1,72 @@
+2022/02/26 10:07:58 [error] 18378#0: *1 "/home/kdqiu/Projects/http_study/www/html/index.html" is forbidden (13: Permission denied), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/02/26 10:07:58 [error] 18378#0: *1 open() "/home/kdqiu/Projects/http_study/www/html/favicon.ico" failed (13: Permission denied), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2022/02/26 10:08:20 [error] 18378#0: *1 "/home/kdqiu/Projects/http_study/www/html/index.html" is forbidden (13: Permission denied), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/02/26 10:08:20 [error] 18378#0: *1 open() "/home/kdqiu/Projects/http_study/www/html/favicon.ico" failed (13: Permission denied), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2022/02/26 10:08:30 [crit] 18380#0: opendir() "/home/kdqiu/Projects/http_study/www/cache" failed (13: Permission denied)
+2022/02/26 10:09:43 [notice] 18705#0: signal process started
+2022/02/26 10:17:08 [notice] 19304#0: signal process started
+2022/03/01 09:16:04 [error] 12948#0: *1 open() "/home/kdqiu/Projects/http_study/www/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2022/03/01 09:39:16 [notice] 17583#0: signal process started
+2022/03/01 10:40:29 [emerg] 2213#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2022/03/01 10:40:29 [emerg] 2213#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2022/03/01 10:40:29 [emerg] 2213#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2022/03/01 10:40:29 [emerg] 2213#0: bind() to 0.0.0.0:8443 failed (98: Address already in use)
+2022/03/01 10:40:29 [emerg] 2213#0: bind() to 0.0.0.0:440 failed (98: Address already in use)
+2022/03/01 10:40:29 [emerg] 2213#0: bind() to 0.0.0.0:441 failed (98: Address already in use)
+2022/03/01 10:40:29 [emerg] 2213#0: bind() to 0.0.0.0:442 failed (98: Address already in use)
+2022/03/01 10:40:29 [emerg] 2213#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2022/03/01 10:40:29 [emerg] 2213#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2022/03/01 10:40:29 [emerg] 2213#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2022/03/01 10:40:29 [emerg] 2213#0: bind() to 0.0.0.0:8443 failed (98: Address already in use)
+2022/03/01 10:40:29 [emerg] 2213#0: bind() to 0.0.0.0:440 failed (98: Address already in use)
+2022/03/01 10:40:29 [emerg] 2213#0: bind() to 0.0.0.0:441 failed (98: Address already in use)
+2022/03/01 10:40:29 [emerg] 2213#0: bind() to 0.0.0.0:442 failed (98: Address already in use)
+2022/03/01 10:40:29 [emerg] 2213#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2022/03/01 10:40:29 [emerg] 2213#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2022/03/01 10:40:29 [emerg] 2213#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2022/03/01 10:40:29 [emerg] 2213#0: bind() to 0.0.0.0:8443 failed (98: Address already in use)
+2022/03/01 10:40:29 [emerg] 2213#0: bind() to 0.0.0.0:440 failed (98: Address already in use)
+2022/03/01 10:40:29 [emerg] 2213#0: bind() to 0.0.0.0:441 failed (98: Address already in use)
+2022/03/01 10:40:29 [emerg] 2213#0: bind() to 0.0.0.0:442 failed (98: Address already in use)
+2022/03/01 10:40:29 [emerg] 2213#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2022/03/01 10:40:29 [emerg] 2213#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2022/03/01 10:40:29 [emerg] 2213#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2022/03/01 10:40:29 [emerg] 2213#0: bind() to 0.0.0.0:8443 failed (98: Address already in use)
+2022/03/01 10:40:29 [emerg] 2213#0: bind() to 0.0.0.0:440 failed (98: Address already in use)
+2022/03/01 10:40:29 [emerg] 2213#0: bind() to 0.0.0.0:441 failed (98: Address already in use)
+2022/03/01 10:40:29 [emerg] 2213#0: bind() to 0.0.0.0:442 failed (98: Address already in use)
+2022/03/01 10:40:29 [emerg] 2213#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2022/03/01 10:40:29 [emerg] 2213#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2022/03/01 10:40:29 [emerg] 2213#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2022/03/01 10:40:29 [emerg] 2213#0: bind() to 0.0.0.0:8443 failed (98: Address already in use)
+2022/03/01 10:40:29 [emerg] 2213#0: bind() to 0.0.0.0:440 failed (98: Address already in use)
+2022/03/01 10:40:29 [emerg] 2213#0: bind() to 0.0.0.0:441 failed (98: Address already in use)
+2022/03/01 10:40:29 [emerg] 2213#0: bind() to 0.0.0.0:442 failed (98: Address already in use)
+2022/03/01 10:40:29 [emerg] 2213#0: still could not bind()
+2022/03/01 10:40:36 [notice] 2261#0: signal process started
+2022/03/01 10:40:42 [notice] 2292#0: signal process started
+2022/03/01 10:40:59 [error] 2318#0: *1 open() "/home/kdqiu/Projects/http_study/www/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2022/03/01 10:41:58 [error] 2318#0: *1 open() "/home/kdqiu/Projects/http_study/www/html/cpp_note" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /cpp_note?token=cpp HTTP/1.1", host: "127.0.0.1"
+2022/03/01 10:43:02 [notice] 2413#0: signal process started
+2022/03/01 10:50:21 [error] 2614#0: *1 open() "/home/kdqiu/Projects/http_study/www/html/cpp_note" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /cpp_note?token=cpp HTTP/1.1", host: "127.0.0.1"
+2022/03/01 10:50:41 [error] 2614#0: *1 open() "/home/kdqiu/Projects/http_study/www/html/cpp_note" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /cpp_note?token=cpp HTTP/1.1", host: "127.0.0.1"
+2022/03/01 10:52:48 [error] 2614#0: *3 open() "/home/kdqiu/Projects/http_study/www/html/cpp_note" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /cpp_note?token=cpp HTTP/1.1", host: "127.0.0.1"
+2022/03/01 10:52:49 [error] 2614#0: *3 open() "/home/kdqiu/Projects/http_study/www/html/cpp_note" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /cpp_note?token=cpp HTTP/1.1", host: "127.0.0.1"
+2022/03/01 10:52:50 [error] 2614#0: *3 open() "/home/kdqiu/Projects/http_study/www/html/cpp_note" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /cpp_note?token=cpp HTTP/1.1", host: "127.0.0.1"
+2022/03/01 10:52:50 [error] 2614#0: *3 open() "/home/kdqiu/Projects/http_study/www/html/cpp_note" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /cpp_note?token=cpp HTTP/1.1", host: "127.0.0.1"
+2022/03/01 10:52:50 [error] 2614#0: *3 open() "/home/kdqiu/Projects/http_study/www/html/cpp_note" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /cpp_note?token=cpp HTTP/1.1", host: "127.0.0.1"
+2022/03/01 10:52:50 [error] 2614#0: *4 open() "/home/kdqiu/Projects/http_study/www/html/cpp_note" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /cpp_note?token=cpp HTTP/1.1", host: "127.0.0.1"
+2022/03/01 10:52:50 [error] 2614#0: *4 open() "/home/kdqiu/Projects/http_study/www/html/cpp_note" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /cpp_note?token=cpp HTTP/1.1", host: "127.0.0.1"
+2022/03/01 10:52:51 [error] 2614#0: *4 open() "/home/kdqiu/Projects/http_study/www/html/cpp_note" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /cpp_note?token=cpp HTTP/1.1", host: "127.0.0.1"
+2022/03/01 10:53:08 [error] 2614#0: *5 open() "/home/kdqiu/Projects/http_study/www/html/cpp_note" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /cpp_note?token=cpp HTTP/1.1", host: "127.0.0.1"
+2022/03/01 10:55:58 [error] 2614#0: *7 open() "/home/kdqiu/Projects/http_study/www/html/cpp_note" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /cpp_note?token=cpp HTTP/1.1", host: "127.0.0.1"
+2022/03/01 10:55:58 [error] 2614#0: *7 open() "/home/kdqiu/Projects/http_study/www/html/cpp_note" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /cpp_note?token=cpp HTTP/1.1", host: "127.0.0.1"
+2022/03/01 10:55:59 [error] 2614#0: *7 open() "/home/kdqiu/Projects/http_study/www/html/cpp_note" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /cpp_note?token=cpp HTTP/1.1", host: "127.0.0.1"
+2022/03/01 10:55:59 [error] 2614#0: *7 open() "/home/kdqiu/Projects/http_study/www/html/cpp_note" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /cpp_note?token=cpp HTTP/1.1", host: "127.0.0.1"
+2022/03/01 10:55:59 [error] 2614#0: *7 open() "/home/kdqiu/Projects/http_study/www/html/cpp_note" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /cpp_note?token=cpp HTTP/1.1", host: "127.0.0.1"
+2022/03/01 10:55:59 [error] 2614#0: *8 open() "/home/kdqiu/Projects/http_study/www/html/cpp_note" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /cpp_note?token=cpp HTTP/1.1", host: "127.0.0.1"
+2022/03/01 10:57:27 [error] 2614#0: *10 open() "/home/kdqiu/Projects/http_study/www/html/cpp_note" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /cpp_note?token=cpp HTTP/1.1", host: "127.0.0.1"
+2022/03/01 10:57:28 [error] 2614#0: *10 open() "/home/kdqiu/Projects/http_study/www/html/cpp_note" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /cpp_note?token=cpp HTTP/1.1", host: "127.0.0.1"
+2022/03/01 10:57:28 [error] 2614#0: *10 open() "/home/kdqiu/Projects/http_study/www/html/cpp_note" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /cpp_note?token=cpp HTTP/1.1", host: "127.0.0.1"
+2022/03/01 10:57:28 [error] 2614#0: *10 open() "/home/kdqiu/Projects/http_study/www/html/cpp_note" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /cpp_note?token=cpp HTTP/1.1", host: "127.0.0.1"
+2022/03/01 10:58:58 [notice] 2927#0: signal process started
